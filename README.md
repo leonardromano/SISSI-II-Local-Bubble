@@ -15,7 +15,7 @@ Dataset from Edenhofer et al. 2024 is required: https://doi.org/10.5281/zenodo.8
 
     git clone https://github.com/leonardromano/SISSI-II-Local-Bubble.git
 
-2. Start the Jupyter Notebook and recreate the environment by executing the first line of the notebook.
+2. Start the Jupyter Notebook and recreate the environment by executing the first two lines of the notebook.
 
 ## Usage
 
