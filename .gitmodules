@@ -1,0 +1,3 @@
+[submodule "auxiliary-data"]
+	path = auxiliary-data
+	url = git@github.com:leonardromano/SISSI-II-Local-Bubble-auxiliary-data.git
