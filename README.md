@@ -7,7 +7,12 @@ Jupyter Notebook with Julia code for reproducing analysis outlined in my 2025 pa
 
 Julia is required.   
 A manifest file is provided to ensure that the identical environment can be used.   
-Dataset from Edenhofer et al. 2024 is required: https://doi.org/10.5281/zenodo.8187943
+For Analysis of 3D-Dust-Maps, the dataset from Edenhofer et al. 2024 is required: https://doi.org/10.5281/zenodo.8187943
+For Analysis of Stellar Clusters, the dataset from Swiggum et al. 2024 is required: https://doi.org/10.7910/DVN/VYBZQS
+
+The 3D-model of the LB shell, derived from the mean 3D-dust map, can be obtained as a .csv file by initialising the corresponding submodule:
+	
+    git submodule init
 
 ## Installation
 
@@ -19,7 +24,7 @@ Dataset from Edenhofer et al. 2024 is required: https://doi.org/10.5281/zenodo.8
 
 ## Usage
 
-Start the Jupyter Notebook and execute all cells line by line.
+Start the Jupyter Notebooks and execute all cells line by line.
 Be aware that due to the large size of the datasets some operations might be quite computationally expensive and require generous ressource allocations (>200 GB RAM).
     
 ## Supporting and Citing
