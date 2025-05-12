@@ -10,9 +10,10 @@ A manifest file is provided to ensure that the identical environment can be used
 For Analysis of 3D-Dust-Maps, the dataset from Edenhofer et al. 2024 is required: https://doi.org/10.5281/zenodo.8187943
 For Analysis of Stellar Clusters, the dataset from Swiggum et al. 2024 is required: https://doi.org/10.7910/DVN/VYBZQS
 
-The 3D-model of the LB shell, derived from the mean 3D-dust map, can be obtained as a .csv file by initialising the corresponding submodule:
+The 3D-model of the LB shell, derived from the mean 3D-dust map, can be obtained as a .csv file by initialising and updating the corresponding submodule:
 	
     git submodule init
+    git submodule update
 
 ## Installation
 
