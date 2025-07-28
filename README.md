@@ -21,7 +21,7 @@ The 3D-model of the LB shell, derived from the mean 3D-dust map, can be obtained
 
     git clone https://github.com/leonardromano/SISSI-II-Local-Bubble.git
 
-2. Start the Jupyter Notebook and recreate the environment by executing the first two lines of the notebook.
+2. Start the Jupyter Notebooks and recreate the environment by executing the first two lines of the notebook.
 
 ## Usage
 
