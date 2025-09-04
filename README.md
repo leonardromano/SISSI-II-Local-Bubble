@@ -1,7 +1,7 @@
-SISSI-II-Local Bubble
-=====================
+SISSI II. Star formation near the Sun is quenched by expansion of the Local Bubble
+==================================================================================
 
-Jupyter Notebook with Julia code for reproducing analysis outlined in my 2025 paper "SISSI II: The new age of the Local Bubble".   
+All code is made publicly available. The code is made available in Jupyter Notebooks written in Julia for reproducing the analysis outlined in the accompanying paper. 
 
 ## Requirements
 
@@ -30,7 +30,7 @@ Be aware that due to the large size of the datasets some operations might be qui
     
 ## Supporting and Citing
 
-To give proper academic credit, follow the link for BibTeX export:
+To give proper academic credit, follow the link to Zenodo: [https://doi.org/10.5281/zenodo.17054923](https://doi.org/10.5281/zenodo.17054923)
 
 ## License
 
